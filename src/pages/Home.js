@@ -8,7 +8,6 @@ class Home extends Component {
     state={
         sliderlist:[],
         imgHeight: 176,
-        s:123
     }
    componentDidMount() {
        getGoods()
